@@ -11,8 +11,4 @@ Bu proje, kullanıcıların konaklama ve deneyim rezervasyonlarını yönetebile
 - Ödeme ve kazanç yönetimi  
 - Deneyim seansları ve rezervasyonları  
 
-## ER Diyagramı
 
-![ER Diyagramı](er_diyagram.png)  
-
-> `er_diyagram.png` yerine kendi Lucidchart ihraç dosyanızı ekleyebilirsiniz.
